@@ -1,0 +1,45 @@
+h1{
+    color: #313131;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    margin: 20px 0;
+    line-height: normal;
+}
+.student_wave{
+    width: 304px;
+    height: 452px;
+    border-radius: 24px;
+    background: #FFF;
+    box-shadow: 0px 0px 10px 4px rgba(0, 0, 0, 0.06);
+
+}
+.wave{
+    padding: 27px 0 47px 27px;
+    font-size: 24px;
+}
+.circle_img{
+    margin-left: 30px;
+}
+.num_of_came{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-left: 45px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+.stu_came{
+    display: flex;
+}
+.stu_came_p{
+    color: var(--theme-color-grey-1, #717579);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 14px;
+    line-height: 26px;
+    flex: 1;
+}
+.num_of_stu{
+    padding-right: 27px;
+}

@@ -1,0 +1,31 @@
+nav{
+    width: 1150px;
+    height: 120px;
+    border-radius: 25px;
+    background: #FFF;
+    box-shadow: 0px 0px 14px 1px rgba(0, 0, 0, 0.12);
+    display: flex;
+}
+.num_of_students{
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+} 
+.group{
+    display: flex;
+    gap: 12px;
+    padding: 0 48px;
+    border-left: #D0C4C4 1px solid;
+}
+.lupa{
+    width: 61px;
+    height: 61px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    background: #F7F7F7;
+    color: #313131;
+    margin-top: 27px;
+    margin-left: 110px;
+}
